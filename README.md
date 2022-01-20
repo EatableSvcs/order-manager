@@ -1,3 +1,3 @@
 # Order Manager
 
-The order manager is responsible for the processes of getting orders completed efficiently
+The order manager is a service aggregator responsible for getting orders to specific branches.
